@@ -7,7 +7,7 @@ namespace CRUD1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("C#: Connect to MySQL");
+            Console.WriteLine("C#: Conectando con MySQL");
 
             try{
 
@@ -17,6 +17,9 @@ namespace CRUD1
 
                 con.Open();
                 Console.WriteLine("Conection is " + con.State.ToString() + Environment.NewLine);
+
+
+                MySqlCommand com = con.CreateCommand();
 
                 con.Close();
                 Console.WriteLine("Conection is " + con.State.ToString() + Environment.NewLine);
