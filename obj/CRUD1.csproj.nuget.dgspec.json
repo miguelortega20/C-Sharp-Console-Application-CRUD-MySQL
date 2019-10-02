@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Miguel/Documents/MVCPRO/CRUD1/CRUD1.csproj": {}
+  },
+  "projects": {
+    "/Users/Miguel/Documents/MVCPRO/CRUD1/CRUD1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Miguel/Documents/MVCPRO/CRUD1/CRUD1.csproj",
+        "projectName": "CRUD1",
+        "projectPath": "/Users/Miguel/Documents/MVCPRO/CRUD1/CRUD1.csproj",
+        "packagesPath": "/Users/Miguel/.nuget/packages/",
+        "outputPath": "/Users/Miguel/Documents/MVCPRO/CRUD1/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Miguel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

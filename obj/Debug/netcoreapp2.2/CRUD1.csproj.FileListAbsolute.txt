@@ -1,0 +1,11 @@
+/Users/Miguel/Documents/MVCPRO/CRUD1/bin/Debug/netcoreapp2.2/CRUD1.deps.json
+/Users/Miguel/Documents/MVCPRO/CRUD1/bin/Debug/netcoreapp2.2/CRUD1.runtimeconfig.json
+/Users/Miguel/Documents/MVCPRO/CRUD1/bin/Debug/netcoreapp2.2/CRUD1.runtimeconfig.dev.json
+/Users/Miguel/Documents/MVCPRO/CRUD1/bin/Debug/netcoreapp2.2/CRUD1.dll
+/Users/Miguel/Documents/MVCPRO/CRUD1/bin/Debug/netcoreapp2.2/CRUD1.pdb
+/Users/Miguel/Documents/MVCPRO/CRUD1/obj/Debug/netcoreapp2.2/CRUD1.csprojAssemblyReference.cache
+/Users/Miguel/Documents/MVCPRO/CRUD1/obj/Debug/netcoreapp2.2/CRUD1.csproj.CoreCompileInputs.cache
+/Users/Miguel/Documents/MVCPRO/CRUD1/obj/Debug/netcoreapp2.2/CRUD1.AssemblyInfoInputs.cache
+/Users/Miguel/Documents/MVCPRO/CRUD1/obj/Debug/netcoreapp2.2/CRUD1.AssemblyInfo.cs
+/Users/Miguel/Documents/MVCPRO/CRUD1/obj/Debug/netcoreapp2.2/CRUD1.dll
+/Users/Miguel/Documents/MVCPRO/CRUD1/obj/Debug/netcoreapp2.2/CRUD1.pdb
